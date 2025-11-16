@@ -2,8 +2,7 @@
 
 ## **0:00–0:20 — Introduction**
 Hi everyone.
-Many real-world missions — from battlefield intelligence to search-and-rescue or environmental monitoring — require guaranteeing full coverage of an area. Missing even a small region can mean missing critical information. Our system focuses on enabling a single operator to reliably achieve complete coverage of an area of interest using multiple fixed-wing UAVs.
-Today we’re demonstrating how a single operator can command multiple fixed-wing UAVs and **guarantee full coverage** of any area they select — all through a simple web interface.
+Many real-world missions — from battlefield intelligence to search-and-rescue or environmental monitoring — require guaranteeing full coverage of an area. Missing even a small region can mean missing critical information. Our system focuses on enabling a single operator to reliably achieve complete coverage of an area of interest using multiple fixed-wing UAVs through a simple web interface.
 
 The two key things to watch for are:
 
