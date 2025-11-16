@@ -34,6 +34,8 @@ The idea is that the operator gives only **high-level intent** by choosing the o
 The UAVs autonomously handle all low-level flying and voronoi coverage logic.  
 This keeps operator workload low even as we scale the number of drones.
 
+But we still wanted to leave the possibility for lover level control and thats why we kept QGC running in the Background where the Operator can get deep into the setting of each drone.
+
 ---
 
 ## **2:40–3:40 — Main Event: Guaranteed Coverage**
