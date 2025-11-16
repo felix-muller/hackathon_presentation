@@ -13,9 +13,9 @@ The two key things to watch for are:
 ---
 
 ## **0:20–1:20 — Realistic Fixed-Wing Simulation**
-Before we show the interface, here’s the aircraft itself flying in the baylands area. -> show follow the plane in gazebo
+Before we show the interface, here’s one of the aircraft itself flying in the baylands area. -> show follow the plane in gazebo
 
-This is a fully simulated fixed-wing UAV running in **PX4 SITL** with **Gazebo**.  
+This is a fully simulated fixed-wing UAV running in **PX4 SITL** with **Gazebo**, meaning that this can be tested on a real drone without any more work. 
 Unlike quadrotors, fixed-wings can’t hover, can’t pivot, and must maintain minimum airspeed and large turning radii. But they do have much better range and can cover big areas.
 
 Everything we show today is constrained by real aerodynamics — so when we later assign a task, you’ll see PX4 fly **realistic, feasible trajectories** rather than simplified point-to-point motion.
