@@ -13,7 +13,7 @@ The two key things to watch for are:
 ---
 
 ## **0:20–1:20 — Realistic Fixed-Wing Simulation**
-Before we show the interface, here’s the aircraft itself. -> show follow the plane in gazebo
+Before we show the interface, here’s the aircraft itself flying in the baylands area. -> show follow the plane in gazebo
 
 This is a fully simulated fixed-wing UAV running in **PX4 SITL** with **Gazebo**.  
 Unlike quadrotors, fixed-wings can’t hover, can’t pivot, and must maintain minimum airspeed and large turning radii.
