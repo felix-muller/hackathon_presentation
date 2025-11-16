@@ -45,7 +45,7 @@ Suppose the operator wants full coverage of this region.
 *(Select or draw the polygon in the interface.)*
 
 As soon as I confirm, the system generates a **Voronoi partition** covering exactly the selected area.  
-Each drone receives its own region, and together these regions **guarantee gap-free, complete coverage**.
+Each drone receives its own region, and together these regions **optimally guarantee gap-free, complete coverage**.
 
 There are no blind spots and this is a **mathematical guarantee**, not a heuristic.  
 
