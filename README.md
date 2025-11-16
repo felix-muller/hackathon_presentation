@@ -79,6 +79,6 @@ And that’s the core contribution:
 
 A scalable, RTS-style interface running on top of a **realistic fixed-wing PX4 simulation**, combined with a coverage planner that can **guarantee full coverage** of any user-selected area.
 
-Mark focused on the front end and the coverage control algorithms and Felix focused more on wiring the whole thing up and PX4. We built it all today.
+Mark focused on the front end, gazebo and the coverage control algorithms and Felix focused more on wiring the whole thing up with ROS2 and PX4. We built it all today.
 
 **Thank you.**
